@@ -28,3 +28,9 @@ Visual
 Schematic
 
 ![Schematic diagram](./fritzing//default_sketch_schem.png)
+
+## Faces
+
+### Simple
+
+![image](https://github.com/mptwaktusolat/esp-waktu-solat/assets/60868965/aa73a36c-f02a-4b15-86c6-7c6b7a1d9587)
