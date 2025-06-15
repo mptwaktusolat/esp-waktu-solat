@@ -1,6 +1,7 @@
 # Waktu Solat (Prayer Time) ESP32 Monitor
 
-:alembic: **This project is still under development.**
+> [!NOTE]  
+> Project is abandoned. I'm planning continue the goal of this project using Home Assistant & ESP home.
 
 Displaying Malaysia prayer time on a embedded system so you can be alerted anytime when the azan time comes.
 
